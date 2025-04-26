@@ -2,8 +2,6 @@
 
 > Noob Developer base on Nowhere, Earth.
 > <br/>
->Founder Of 0xWTF 𓃵
-
 
 I am a Passionate Noob Developer | Blockchain enthusiast | Crypto Trader |
 Full time Friends & Family Guy |
