@@ -27,7 +27,6 @@ Full time Friends & Family Guy |
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=ishmanwtf&cc=161b22&tc=fff&ic=fff&bc=161b22">
  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=ishmanwtf&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
- <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=ishmanwtf&cc=161b22&tc=fff&ic=fff&bc=161b22" />
  </picture>
 
   <h3 align="center">Languages & Frameworks</h3>
